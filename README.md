@@ -1,8 +1,8 @@
-Hi!
+RoboCup Junior Open Soccer
 
-This is a repo documenting our Robocup Junior Open Soccer league team's progress.
-As of writing it is still incomplete but I will continue updating this.
+Team members:
+Neo Lee - Parts purchaser, lead programmer
+Ray Chen - Lead electronics engineer
+Xiangdong Xi - Lead designer
+Samuel Sun - idk
 
-enjoy! :)
-
-unilarity
