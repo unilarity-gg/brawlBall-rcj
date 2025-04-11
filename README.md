@@ -1,8 +1,10 @@
-#*insert team name here* - Robocup Junior Soccer Open league Australia
+*insert team name here*
+====================
+Robocup Junior Soccer Open league Australia
 
 Welcome to our Robocup repository where we dump stuff about robotics :)
 
-Team members:
+## Team members:
 | Name               | Role                                   | 
 |--------------------|----------------------------------------|
 | Neo Lee            | Lead programmer, Parts sourcer         |
